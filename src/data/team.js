@@ -34,7 +34,7 @@ export const team = [
   {
     name: 'Dicky',
     role: 'iOT & Security system',
-    initials: 'AW',
+    initials: 'DC',
     photoFile: 'fototolol.png',
     photo: resolvePhoto('fototolol.png', 'https://api.dicebear.com/7.x/notionists/svg?seed=Arka-Wijaya&backgroundColor=071426'),
     bio: 'Membangun dan mengembangkan sistem software serta integrasi teknis.',
